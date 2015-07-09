@@ -18,8 +18,8 @@ RUN chmod +x /opt/openhab/start.sh
 
 ADD files/bindings/ /opt/openhab/addons-avail/
 ADD files/addons.cfg /opt/openhab/addons.cfg
-Add files/secret /opt/openhab/webapps/static/secret
-Add files/uuid /opt/openhab/webapps/static/uuid
+ADD files/secret /opt/openhab/webapps/static/secret
+ADD files/uuid /opt/openhab/webapps/static/uuid
 ADD files/icons/ /opt/openhab/webapps/images/
 ADD files/lib/ /opt/openhab/lib/
 
