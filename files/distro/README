@@ -1,0 +1,1 @@
+Simply copy the runtime and addons zip files here. No changes to the files are needed. Any additional bindings or different versions have to put in the binding folder. The addons.cfg then decided which bindings will be used.
